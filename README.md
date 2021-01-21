@@ -1,2 +1,2 @@
 # wbsiytee--angochatt
- novo site
+this repository is exclusive to the angochat company for web page development
