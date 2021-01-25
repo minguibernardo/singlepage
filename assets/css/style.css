@@ -1,3 +1,9 @@
+/* Angochat css fast
+****
+****
+****************
+*/
+
 html,
 body,
 div,
@@ -355,8 +361,14 @@ body {
     }
     .home .hero-img img {
         max-width: 720px !important;
-        width: 100%;
-        margin: 20px 0;
+        width: 35%;
+        /* width: 35%; margin: 20px 0;*/
+    }
+    .marg {
+        margin-top: 8px !important;
+    }
+    li a:focus {
+        color: #6d48e5 !important;
     }
     .home h1 {
         font-size: 28px;
@@ -561,7 +573,7 @@ body {
     .hero-2 #chimp-email-error {
         position: absolute;
         left: 0;
-        bottom: -45%;
+        bottom: -35%;
         vertical-align: middle;
         font-family: 'Montserrat';
         font-size: 13px;
@@ -1265,7 +1277,7 @@ body {
     #response {
         position: absolute;
         left: 0;
-        bottom: -45%;
+        bottom: -35%;
         vertical-align: middle;
         font-family: 'Montserrat';
         font-size: 13px !important;
@@ -1276,7 +1288,7 @@ body {
         position: absolute;
         left: 0;
         right: 0;
-        bottom: -45%;
+        bottom: -35%;
         vertical-align: middle;
         font-family: 'Montserrat';
         font-size: 13px;
@@ -1320,6 +1332,9 @@ body {
         color: #97a6b5;
         letter-spacing: 0;
         display: inline-block;
+    }
+    .introo {
+        text-align: justify;
     }
     .footer-sm ul {
         list-style-type: none;
