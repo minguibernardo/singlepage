@@ -1,2 +1,3 @@
-# wbsiytee--angochatt
-this repository is exclusive to the angochat company for web page development
+# PageLanding-clone
+
+this repository is exclusive to the web page development
